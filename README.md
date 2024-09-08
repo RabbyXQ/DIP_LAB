@@ -1,4 +1,4 @@
 ## Image Processing Lab Works
-Image Manipulation
-Image Segmentaion
-Image Recognization
+Image Manipulation <br>
+Image Segmentaion<br>
+Image Recognization<br>
