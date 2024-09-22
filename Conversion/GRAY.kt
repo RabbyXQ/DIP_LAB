@@ -21,7 +21,7 @@ fun main(){
         }
     }
 
-    val output = BufferedImage(width, height, BufferedImage.TYPE_BYTE_GRAY)
+    val output = BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB)
 
     for(y in 0 until(height)){
         for(x in 0 until(width)){
